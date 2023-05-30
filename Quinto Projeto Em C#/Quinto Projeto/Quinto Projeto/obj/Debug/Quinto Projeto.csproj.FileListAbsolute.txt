@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\bin\Debug\Quinto Projeto.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\bin\Debug\Quinto Projeto.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\bin\Debug\Quinto Projeto.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\obj\Debug\Quinto Projeto.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\obj\Debug\Quinto Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\obj\Debug\Quinto Projeto.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\obj\Debug\Quinto Projeto.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Quinto Projeto Em C#\Quinto Projeto\Quinto Projeto\obj\Debug\Quinto Projeto.pdb
